@@ -1,9 +1,8 @@
 ## multi_consol_trnat
-Public • Consolidate multiple homework/training extracts.
 
 - **Primary SOPs:** https://github.com/srajagopalan1204/multi_consol_trnat/tree/main/docs/SOPs
-- **Key documents (suggested to create):**
-  - 10_Workflow_SRO.md
+- **Key documents:**  
+  - 10_Workflow_SRO.md  
   - 20_Release_Checklist.md
 
 **Owners:** <roles>  
