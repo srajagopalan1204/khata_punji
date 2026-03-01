@@ -46,7 +46,18 @@ add -A = include all changes (new/edited/deleted)
 commit = creates a restore point
 
 push = copies it to GitHub (so even if Codespace dies, you’re safe)
-
+[main 48a4298] WIP savepoint 20260301_0830
+ 1 file changed, 153 insertions(+)
+ create mode 100644 docs/SOPs/how to /how to backup and protect after disaster 02 02 2026 SR with edits.md
+Enumerating objects: 9, done.
+Counting objects: 100% (9/9), done.
+Delta compression using up to 2 threads
+Compressing objects: 100% (5/5), done.
+Writing objects: 100% (6/6), 2.16 KiB | 2.16 MiB/s, done.
+Total 6 (delta 1), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To https://github.com/srajagopalan1204/khata_punji
+   051b5f7..48a4298  main -> main
 ✅ After that, verify:
 
 git status
